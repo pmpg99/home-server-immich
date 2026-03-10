@@ -46,7 +46,7 @@ A implementação deste projeto foi pautada pela lógica de **redução de custo
 * **Valorização do Ativo:** Além da poupança direta, o servidor agrega valor ao suportar outros projetos críticos, como a infraestrutura da agenda **mvbeautiful.com**.
 
 
-📄 Download do Case Study Completo (PDF):
+📄 Download do Case Study Completo (PDF): CLOUD_PROJECT.pdf
 
 Esta atualização visa aumentar a **segurança dos dados**, garantir a **alta disponibilidade** do serviço e zelar pela **continuidade de negócio/serviço**, eliminando pontos únicos de falha (SPOF) no armazenamento.
 
