@@ -37,6 +37,14 @@ Como parte do meu percurso em **CEH (Certified Ethical Hacker)**, a segurança f
 ## 📈 Roadmap & Continuidade de Negócio
 Este projeto encontra-se em **fase de desenvolvimento e expansão**. Atualmente, o armazenamento é suportado por um HDD de 2.5'', mas o plano de evolução prevê a substituição por **dois discos de 2TB cada, configurados em RAID**. 
 
+
+## 💰 Eficiência Financeira & ROI (Return on Investment)
+A implementação deste projeto foi pautada pela lógica de **redução de custos fixos**. 
+
+* **Substituição de OPEX:** Ao internalizar o armazenamento (Self-Hosting), eliminámos a dependência de subscrições mensais de serviços como Google One ou iCloud.
+* **Payback Period:** O investimento em hardware (HP ProDesk + RAM) paga-se em menos de 18 meses apenas com a poupança das mensalidades de Cloud que seriam necessárias para o volume de dados atual (320GB+).
+* **Valorização do Ativo:** Além da poupança direta, o servidor agrega valor ao suportar outros projetos críticos, como a infraestrutura da agenda **mvbeautiful.com**.
+
 Esta atualização visa aumentar a **segurança dos dados**, garantir a **alta disponibilidade** do serviço e zelar pela **continuidade de negócio/serviço**, eliminando pontos únicos de falha (SPOF) no armazenamento.
 
 ---
